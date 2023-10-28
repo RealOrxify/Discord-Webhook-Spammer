@@ -11,7 +11,7 @@ by cloning the repository you will simply type
 
 ### Change the directory
 
-``````cd Webhook-Spammer``````
+``````cd Discord-Webhook-Spammer``````
 then just um yeah just like yah do this next
 
 ### Running the python3 file
