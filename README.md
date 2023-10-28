@@ -7,7 +7,7 @@ well first obvoiusly your gonna need a computer, you and some random terminal id
 ### Clone the repository
 by cloning the repository you will simply type
 
-``````git clone https://github.com/RealOrxify/Webhook-Spammer``````
+``````git clone https://github.com/RealOrxify/Discord-Webhook-Spammer``````
 
 ### Change the directory
 
